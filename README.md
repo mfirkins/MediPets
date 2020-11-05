@@ -1,7 +1,14 @@
 # MediPet
-An application to encourage users to take prescribed medication
+An application to encourage users to take prescribed medication 
 
-MediPet was used as a small group project in collaboration with a group of Medical students. It uses a Virtual Pet as a way to encourage and make sure medication is taken on time and at the correct intervals throughout the day.
+## Table of Contents
+* [General Info](##General-Info)
+* [Technologies](##Technologies)
+* [Author Info](##Author-Info)
+
+## General Info
+Version: 1.0, 11/03/2020<br>
+MediPet was used as a small group project in collaboration with a group of medical students. I designed the GUI and Software for the project. It uses a Virtual Pet as a way to encourage and make sure prescribed medication is taken on time and at the correct intervals throughout a given day. The majority of the projects functionality is finished, but the health statistic functionality in the program has not been implemented.
 
 Files in Repository:
 
@@ -15,4 +22,12 @@ Files in Repository:
 
 -MediPets.py: The main python script for the application
 
--keyFile.key: Holds an encryption key for the userData.txt file
+-keyFile.key: Auto generates an encryption key for the userData.txt file
+
+## Technologies
+Created in Python 3.7 with Tkinter 8.6
+## Author Info
+Name: Morgan Firkins<br>
+GitHub: https://github.com/mfirkins<br>
+
+
